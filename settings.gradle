@@ -1,0 +1,2 @@
+rootProject.name='SpikeMultiTypeRecycler'
+include ':app'
